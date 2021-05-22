@@ -1,4 +1,4 @@
-# Voice Emotion Detection
+# Voice Emotion Recognition
 Detecting emotions in samples of voice and trying to figure out the audio/voice features which most affect the perception of emotions in voice.
 
 ## Steps
